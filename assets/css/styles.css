@@ -12,6 +12,12 @@
 .navbar-nav {
   margin-right: 100px;
 }
+body {
+  background-color: black;
+}
+.icon-white {
+  color: white;
+}
 .presentation-section {
   background-color: black;
   color: white;
@@ -42,7 +48,7 @@ h2 {
   width: 100%;
   color: #fff;
   text-align: center;
-  margin-top: 20px;
+  background-color: black;
 }
 .featured-section {
   display: flex;
